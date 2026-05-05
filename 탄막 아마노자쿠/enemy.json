@@ -1,0 +1,25 @@
+{"000001":
+[{
+    "ratio": 0.5,
+    "Time": 10,
+    "boss": false,
+    "enemy": "normal"
+    },
+{
+    "ratio": 0.5,
+    "Time": 11,
+    "boss": false,
+    "enemy": "normal"
+    },
+{
+    "ratio": 0.5,
+    "Time": 12,
+    "boss": "mid",
+    "enemy": "farie"
+    },
+{
+    "ratio": 0.5,
+    "Time": 20,
+    "boss": true,
+    "enemy": "reimu"
+    }]}
